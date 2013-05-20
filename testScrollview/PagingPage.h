@@ -1,5 +1,5 @@
 //
-//  testScrollviewViewController.h
+//  PagingPage.h
 //  testScrollview
 //
 //  Created by 苏 孝禹 on 5/30/12.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface testScrollviewViewController : UIViewController
-
+@interface PagingPage : UIView
+@property (nonatomic,assign) NSString *imageName;
 @end

@@ -15,6 +15,25 @@
 		4ADCBE011576241B00A994AC /* testScrollviewAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ADCBE001576241B00A994AC /* testScrollviewAppDelegate.m */; };
 		4ADCBE041576241B00A994AC /* testScrollviewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ADCBE031576241B00A994AC /* testScrollviewViewController.m */; };
 		4ADCBE071576241B00A994AC /* testScrollviewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE051576241B00A994AC /* testScrollviewViewController.xib */; };
+		4ADCBE0F1576243400A994AC /* PagingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ADCBE0E1576243400A994AC /* PagingView.m */; };
+		4ADCBE2115762E1300A994AC /* 101.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1015762E1300A994AC /* 101.jpg */; };
+		4ADCBE2215762E1300A994AC /* 102.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1115762E1300A994AC /* 102.jpg */; };
+		4ADCBE2315762E1300A994AC /* 103.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1215762E1300A994AC /* 103.jpg */; };
+		4ADCBE2415762E1300A994AC /* 104.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1315762E1300A994AC /* 104.jpg */; };
+		4ADCBE2515762E1300A994AC /* 105.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1415762E1300A994AC /* 105.jpg */; };
+		4ADCBE2615762E1300A994AC /* 106.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1515762E1300A994AC /* 106.jpg */; };
+		4ADCBE2715762E1300A994AC /* 107.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1615762E1300A994AC /* 107.jpg */; };
+		4ADCBE2815762E1300A994AC /* 108.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1715762E1300A994AC /* 108.jpg */; };
+		4ADCBE2915762E1300A994AC /* 109.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1815762E1300A994AC /* 109.jpg */; };
+		4ADCBE2A15762E1300A994AC /* 110.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1915762E1300A994AC /* 110.jpg */; };
+		4ADCBE2B15762E1300A994AC /* 111.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1A15762E1300A994AC /* 111.jpg */; };
+		4ADCBE2C15762E1300A994AC /* 112.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1B15762E1300A994AC /* 112.jpg */; };
+		4ADCBE2D15762E1300A994AC /* 113.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1C15762E1300A994AC /* 113.jpg */; };
+		4ADCBE2E15762E1300A994AC /* 114.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1D15762E1300A994AC /* 114.jpg */; };
+		4ADCBE2F15762E1300A994AC /* 115.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1E15762E1300A994AC /* 115.jpg */; };
+		4ADCBE3015762E1300A994AC /* 116.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE1F15762E1300A994AC /* 116.jpg */; };
+		4ADCBE3115762E1300A994AC /* 117.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ADCBE2015762E1300A994AC /* 117.jpg */; };
+		4ADCBE3415762F9C00A994AC /* PagingPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ADCBE3315762F9C00A994AC /* PagingPage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +41,36 @@
 		4ADCBDF01576241B00A994AC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4ADCBDF21576241B00A994AC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4ADCBDF41576241B00A994AC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4ADCBDF81576241B00A994AC /* testScrollview-Info.plist */ = {isa = PBXFileReference; path = "testScrollview-Info.plist"; sourceTree = "<group>"; };
+		4ADCBDF81576241B00A994AC /* testScrollview-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "testScrollview-Info.plist"; sourceTree = "<group>"; };
 		4ADCBDFA1576241B00A994AC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4ADCBDFC1576241B00A994AC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4ADCBDFE1576241B00A994AC /* testScrollview-Prefix.pch */ = {isa = PBXFileReference; path = "testScrollview-Prefix.pch"; sourceTree = "<group>"; };
-		4ADCBDFF1576241B00A994AC /* testScrollviewAppDelegate.h */ = {isa = PBXFileReference; path = testScrollviewAppDelegate.h; sourceTree = "<group>"; };
+		4ADCBDFE1576241B00A994AC /* testScrollview-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "testScrollview-Prefix.pch"; sourceTree = "<group>"; };
+		4ADCBDFF1576241B00A994AC /* testScrollviewAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testScrollviewAppDelegate.h; sourceTree = "<group>"; };
 		4ADCBE001576241B00A994AC /* testScrollviewAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testScrollviewAppDelegate.m; sourceTree = "<group>"; };
-		4ADCBE021576241B00A994AC /* testScrollviewViewController.h */ = {isa = PBXFileReference; path = testScrollviewViewController.h; sourceTree = "<group>"; };
+		4ADCBE021576241B00A994AC /* testScrollviewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testScrollviewViewController.h; sourceTree = "<group>"; };
 		4ADCBE031576241B00A994AC /* testScrollviewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testScrollviewViewController.m; sourceTree = "<group>"; };
 		4ADCBE061576241B00A994AC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/testScrollviewViewController.xib; sourceTree = "<group>"; };
+		4ADCBE0D1576243400A994AC /* PagingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PagingView.h; sourceTree = "<group>"; };
+		4ADCBE0E1576243400A994AC /* PagingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PagingView.m; sourceTree = "<group>"; };
+		4ADCBE1015762E1300A994AC /* 101.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 101.jpg; sourceTree = "<group>"; };
+		4ADCBE1115762E1300A994AC /* 102.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 102.jpg; sourceTree = "<group>"; };
+		4ADCBE1215762E1300A994AC /* 103.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 103.jpg; sourceTree = "<group>"; };
+		4ADCBE1315762E1300A994AC /* 104.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 104.jpg; sourceTree = "<group>"; };
+		4ADCBE1415762E1300A994AC /* 105.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 105.jpg; sourceTree = "<group>"; };
+		4ADCBE1515762E1300A994AC /* 106.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 106.jpg; sourceTree = "<group>"; };
+		4ADCBE1615762E1300A994AC /* 107.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 107.jpg; sourceTree = "<group>"; };
+		4ADCBE1715762E1300A994AC /* 108.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 108.jpg; sourceTree = "<group>"; };
+		4ADCBE1815762E1300A994AC /* 109.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 109.jpg; sourceTree = "<group>"; };
+		4ADCBE1915762E1300A994AC /* 110.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 110.jpg; sourceTree = "<group>"; };
+		4ADCBE1A15762E1300A994AC /* 111.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 111.jpg; sourceTree = "<group>"; };
+		4ADCBE1B15762E1300A994AC /* 112.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 112.jpg; sourceTree = "<group>"; };
+		4ADCBE1C15762E1300A994AC /* 113.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 113.jpg; sourceTree = "<group>"; };
+		4ADCBE1D15762E1300A994AC /* 114.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 114.jpg; sourceTree = "<group>"; };
+		4ADCBE1E15762E1300A994AC /* 115.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 115.jpg; sourceTree = "<group>"; };
+		4ADCBE1F15762E1300A994AC /* 116.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 116.jpg; sourceTree = "<group>"; };
+		4ADCBE2015762E1300A994AC /* 117.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 117.jpg; sourceTree = "<group>"; };
+		4ADCBE3215762F9C00A994AC /* PagingPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PagingPage.h; sourceTree = "<group>"; };
+		4ADCBE3315762F9C00A994AC /* PagingPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PagingPage.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +123,10 @@
 				4ADCBE031576241B00A994AC /* testScrollviewViewController.m */,
 				4ADCBE051576241B00A994AC /* testScrollviewViewController.xib */,
 				4ADCBDF71576241B00A994AC /* Supporting Files */,
+				4ADCBE0D1576243400A994AC /* PagingView.h */,
+				4ADCBE0E1576243400A994AC /* PagingView.m */,
+				4ADCBE3215762F9C00A994AC /* PagingPage.h */,
+				4ADCBE3315762F9C00A994AC /* PagingPage.m */,
 			);
 			path = testScrollview;
 			sourceTree = "<group>";
@@ -90,6 +134,23 @@
 		4ADCBDF71576241B00A994AC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4ADCBE1015762E1300A994AC /* 101.jpg */,
+				4ADCBE1115762E1300A994AC /* 102.jpg */,
+				4ADCBE1215762E1300A994AC /* 103.jpg */,
+				4ADCBE1315762E1300A994AC /* 104.jpg */,
+				4ADCBE1415762E1300A994AC /* 105.jpg */,
+				4ADCBE1515762E1300A994AC /* 106.jpg */,
+				4ADCBE1615762E1300A994AC /* 107.jpg */,
+				4ADCBE1715762E1300A994AC /* 108.jpg */,
+				4ADCBE1815762E1300A994AC /* 109.jpg */,
+				4ADCBE1915762E1300A994AC /* 110.jpg */,
+				4ADCBE1A15762E1300A994AC /* 111.jpg */,
+				4ADCBE1B15762E1300A994AC /* 112.jpg */,
+				4ADCBE1C15762E1300A994AC /* 113.jpg */,
+				4ADCBE1D15762E1300A994AC /* 114.jpg */,
+				4ADCBE1E15762E1300A994AC /* 115.jpg */,
+				4ADCBE1F15762E1300A994AC /* 116.jpg */,
+				4ADCBE2015762E1300A994AC /* 117.jpg */,
 				4ADCBDF81576241B00A994AC /* testScrollview-Info.plist */,
 				4ADCBDF91576241B00A994AC /* InfoPlist.strings */,
 				4ADCBDFC1576241B00A994AC /* main.m */,
@@ -150,6 +211,23 @@
 			files = (
 				4ADCBDFB1576241B00A994AC /* InfoPlist.strings in Resources */,
 				4ADCBE071576241B00A994AC /* testScrollviewViewController.xib in Resources */,
+				4ADCBE2115762E1300A994AC /* 101.jpg in Resources */,
+				4ADCBE2215762E1300A994AC /* 102.jpg in Resources */,
+				4ADCBE2315762E1300A994AC /* 103.jpg in Resources */,
+				4ADCBE2415762E1300A994AC /* 104.jpg in Resources */,
+				4ADCBE2515762E1300A994AC /* 105.jpg in Resources */,
+				4ADCBE2615762E1300A994AC /* 106.jpg in Resources */,
+				4ADCBE2715762E1300A994AC /* 107.jpg in Resources */,
+				4ADCBE2815762E1300A994AC /* 108.jpg in Resources */,
+				4ADCBE2915762E1300A994AC /* 109.jpg in Resources */,
+				4ADCBE2A15762E1300A994AC /* 110.jpg in Resources */,
+				4ADCBE2B15762E1300A994AC /* 111.jpg in Resources */,
+				4ADCBE2C15762E1300A994AC /* 112.jpg in Resources */,
+				4ADCBE2D15762E1300A994AC /* 113.jpg in Resources */,
+				4ADCBE2E15762E1300A994AC /* 114.jpg in Resources */,
+				4ADCBE2F15762E1300A994AC /* 115.jpg in Resources */,
+				4ADCBE3015762E1300A994AC /* 116.jpg in Resources */,
+				4ADCBE3115762E1300A994AC /* 117.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -163,6 +241,8 @@
 				4ADCBDFD1576241B00A994AC /* main.m in Sources */,
 				4ADCBE011576241B00A994AC /* testScrollviewAppDelegate.m in Sources */,
 				4ADCBE041576241B00A994AC /* testScrollviewViewController.m in Sources */,
+				4ADCBE0F1576243400A994AC /* PagingView.m in Sources */,
+				4ADCBE3415762F9C00A994AC /* PagingPage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
